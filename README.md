@@ -1,15 +1,15 @@
-# Austin Poonia
+# Austin Poonia #
 14202 42nd Street 125-B
 Tampa, FL 33613
 P: (407) 791-3761
 AustinPoonia@iCloud.com
-## About me
+## About me ##
 Ambitious cybersecurity professional with practical knowledge across multiple areas of cybersecurity, including ethical hacking, infrastructure protection, and protected software engineering. Throughout my educational path, I’ve utilized state-of-the-art methods and tools, such as Kali Linux, Metasploit, Hydra, and STIX/TAXII, in practical scenarios and technical exercises. My projects include investigating cyber threats using Soltra Edge to conduct active ethical hacking tasks, all aimed at expanding my knowledge of cyber threats and neutralizing those risks. I also have a strong background in network administration, digital forensics, and complex OOP.
 
 In addition to my security-based work, I’ve gained hands-on abilities in encryption evaluation, privilege management, network security, and information organization, enhanced through my studies in cyber defense, IT security systems, and the moral dimensions of IT protection. I’m eager to solve advanced cybersecurity problems, leveraging my expertise and strong grasp of human-centric and technological facets of cyber defense, to safeguard organizational assets.
 
 My objective is to join an innovative security organization where I can keep growing and apply my skills to uncover weaknesses, fortify defenses, and guard against dynamic cyber risks.
-## Education
+## Education ##
 **University of South Florida**
 *Jan 2020 - May 2025*
 Currently working on a Bachelor's degree in Cybersecurity, my course work focuses on a range of topics including network security, risk management, and the human factors of cybersecurity, all preparing me to address real work and ever emerging security challenges.
