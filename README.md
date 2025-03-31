@@ -46,6 +46,18 @@ Python scripting for automation and security tools (e.g., ffuf)
 C++ for application development, and OOP concepts.
 
 ## Work Experience
+
+**Texas Roadhouse**
+*Software Developer (Full Stack)*
+Leveraged agile methodologies to prototype and develop scalable, secure software solutions, driving full lifecycle development from conceptualization to deployment. Collaborated in cross-functional teams through code reviews and unit testing to deliver high-quality software, mirroring embedded system integration and interdisciplinary design principles. Translated complex requirements into robust applications using modern frameworks and microservices, demonstrating strong problem-solving skills and a foundation in software engineering best practices.
+
+*Information Technology Specialist*
+Software and hardware diagnosis and repair of laptops and desktops. Provides assurance and clear diagnosis to clients. Provides clear notes and documentation for associates to follow.
+
+**Texas Roadhouse**
+*Maintenance Team Lead*
+Creation and management of concurrent time sensitive and high availability tasks. Ensures fluent operation of machinery and mechanical equipment by completing preventative maintenance requirements.
+
 **Charter Schools USA**
 *IT Support Technician*
 Provided comprehensive technical support across multiple campuses, effectively troubleshooting hardware, software, and network issues for faculty and staff. Ensured seamless operation of IT infrastructure, maintained network connectivity, and facilitated smooth technology usage. Demonstrated a proactive approach to problem-solving and consistently delivered timely, effective resolutions to enhance user productivity and minimize downtime. Developed strong interpersonal communication skills through assisting end users, leading to a high level of user satisfaction and reliability in IT operations.
